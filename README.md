@@ -1,16 +1,16 @@
-# Credit Card Fraud Pipeline Subscription End-to-End Data Pipeline
+# Credit Card Application Fraud Mitigation Pipeline Subscription End-to-End Data Pipeline
 
 ## Bussiness Understanding
 
-Credit score is an important metric for banks to rate the credit performance of their applicants. 
-They use personal information and financial records of credit card applicants to predict whether these applicants will default in the future or not. 
-From these predictions, the banks will then decide if they want to issue credit cards to these applicants or not. 
-The banks are asking us to create an end-to-end pipeline to help them handle this problem. 
-The original datasets and data dictionary can be found in [here](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction).
+ Financial institution is experiencing challenges in managing and analyzing its large volume of credit card applicant data. This makes it difficult to mitigate fraud from credit card applicant data.To mitigate the possibility of fraud on credit card applicant, a data pipeline is created to facilitate data analysis and reporting application record.
+ 
+Original Source Code : [here](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction).
+
+Project Presentation : [here](https://docs.google.com/presentation/d/1hAgdG1w9Dz-WyjRe1qZJN0CBRADEPLU8/edit?usp=sharing&ouid=100538908229283397766&rtpof=true&sd=true).
 
 ## Problem Statements
 
-From said back story, we can conclude that the bank want to increase the efficiency of their campaign by targeting client with higher chance of success based on the feature from the data.
+From said back story, we can conclude that the bank want to make a system dan can mitigate fraud from application data record.
 
 ## Project Objectives
 The objectives of this projects are described below:
